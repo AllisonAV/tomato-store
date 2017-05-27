@@ -7,7 +7,8 @@ http://tomato-store2.herokuapp.com/
 
 Created by <a href="https://github.com/AllisonAV">Allison Alexander</a>, 
 
-Powered by Node.js, Express.js, PostgreSQL, Sequelize, React, React-Redux
+Technologies used:   JavaScript, Node.js, Express, Sequelize, PostgreSQL, React and React-Redux
+
 
 Current functionality
 -----------------
